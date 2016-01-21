@@ -1,0 +1,9 @@
+Running k-NN Classifier Code:
+
+>>python code.py "dataFilename" "k-value" "Index of the classname in the data file(starting at 0)"
+
+Running the plot generator:
+
+>>python plot.py
+
+(filename is hardcoded; name of the datafile (irisdata) must be "iris.data"

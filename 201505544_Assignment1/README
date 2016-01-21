@@ -1,0 +1,10 @@
+Implemented:
+
+For each dataset:
+	1-NN (Random Subsampling and 5-fold cross validation)
+	3-NN (Random Subsampling and 5-fold cross validation)
+	
+2-d Plot for irisdata using sepalWidth and petalWidth
+Plot of decison boundary using 1-NN
+
+Note: Value of 'K' is generalized to test for various value of data
